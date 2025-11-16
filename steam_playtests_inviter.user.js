@@ -4,6 +4,8 @@
 // @description Automatically try to invite your desired friend to all the playtests you have invites for
 // @author      bron99
 // @match       https://store.steampowered.com/account/gatedaccess
+// @updateURL    https://raw.githubusercontent.com/bron99/userscripts/master/steam_playtests_inviter.user.js
+// @downloadURL  https://raw.githubusercontent.com/bron99/userscripts/master/steam_playtests_inviter.user.js
 // ==/UserScript==
 
 'use strict';
