@@ -101,6 +101,7 @@ const inject = () => {
 
     submitButton.addEventListener('click', async () => {
         responses = [];
+        totalRes.innerHTML = '';
         const steamId = steamIdInput.value;
         accessToken = accessToken ?? await getAccessToken();
         playtestsArr = playtestsArr ?? await getAllPlaytests();
