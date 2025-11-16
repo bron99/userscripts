@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Steam Playtests Inviter
-// @version     0.0.1
+// @version     0.0.2
 // @description Automatically try to invite your desired friend to all the playtests you have invites for
 // @author      bron99
 // @match       https://store.steampowered.com/account/gatedaccess
